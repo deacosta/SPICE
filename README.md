@@ -23,6 +23,10 @@ To run it:
 3. If a problem is detected, it will be displayed in console  
 4. When the program ends, a log (HOSTNAME.log) will be created on the "desktop" folder of the current user.
 
+### Screenshot
+![alt text][SPICE]
+[SPICE]:http://i2.wp.com/pcihispano.com/contenido/uploads/2013/07/SPICE_v1.0.png?w=664 "SPICE"
+
 ### Frequently Asked Questions
 
 **Could this tool modify my files?**
