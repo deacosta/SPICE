@@ -1,3 +1,6 @@
+![alt text][logo]
+[logo]:http://pcihispano.com/contenido/uploads/2016/10/SPICE_logo.png "SPICE"
+
 ##  Simple PCIDSS Information and Configuration Extractor (SPICE)
 Author: David Acosta (admin[at]pcihispano.com) from PCI Hispano www.pcihispano.com
 
