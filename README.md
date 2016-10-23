@@ -10,9 +10,11 @@ Simple PCIDSS Information and Configuration Extractor (SPICE) is a VERY SIMPLE c
 ### Installation
 This program does not need installation. Just uncompress the .zip file and copy the main executable "SPICE_vX.X.bat" (where X.X is the current version) into a temporary folder.
 
-== Execution ==
+### Execution
 You need administrative privileges to execute this tool.
+
 To run it: 
+
 1. Go to the folder where the script was extracted
 2. From a Command Prompt (cmd.exe) with administrative privileges execute the script.
 3. If a problem is detected, it will be displayed in console  
@@ -20,15 +22,15 @@ To run it:
 
 ### Frequently Asked Questions
 
-Could this tool modify my files?
+**Could this tool modify my files?**
 
 No. This tool only read, extract and export the configuration data from your PC/Server. It does not write, delete or modify any file or data from your systems. 
 
-Could this tool extract payment data stored in my systems?
+**Could this tool extract payment data stored in my systems?**
 
 No. All collected data is related to configuration settings and is exported into hostname.log file in text format. 
 
-How can I execute a Command Prompt (cmd.exe) with administrative privileges?
+**How can I execute a Command Prompt (cmd.exe) with administrative privileges?**
 
 Because this program requires execution from a Command Prompt (cmd.exe) with administrative privileges, run these steps:
 * Use "runas": runas /user:localmachinename\administrator cmd
