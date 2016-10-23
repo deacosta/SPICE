@@ -20,22 +20,25 @@ To run it:
 
 ### Frequently Asked Questions
 
-= Could this tool modify my files? =
+Could this tool modify my files?
+
 No. This tool only read, extract and export the configuration data from your PC/Server. It does not write, delete or modify any file or data from your systems. 
 
-= Could this tool extract payment data stored in my systems? = 
+Could this tool extract payment data stored in my systems?
+
 No. All collected data is related to configuration settings and is exported into hostname.log file in text format. 
 
-= How can I execute a Command Prompt (cmd.exe) with administrative privileges?
+How can I execute a Command Prompt (cmd.exe) with administrative privileges?
+
 Because this program requires execution from a Command Prompt (cmd.exe) with administrative privileges, run these steps:
-- Use "runas": runas /user:localmachinename\administrator cmd
-- Use the contextual menu of "Run as administrator": Locate the icon of "Command Prompt" in the Start Menu - Right click -> Run as administrator
+* Use "runas": runas /user:localmachinename\administrator cmd
+* Use the contextual menu of "Run as administrator": Locate the icon of "Command Prompt" in the Start Menu - Right click -> Run as administrator
 When this steps have been performed, go to the folder where the script was extracted and execute it. 
 
 ### Changelog
 
-0.1 (March 2014): Upgrade to PCI DSS v3.0
-0.09 (May 2013): First version PCI DSS v2.0 (not published)
+* 0.1 (March 2014): Upgrade to PCI DSS v3.0
+* 0.09 (May 2013): First version PCI DSS v2.0 (not published)
 
 ### License
 See LICENSE file 
