@@ -4,8 +4,8 @@ Author: David Acosta (admin[at]pcihispano.com) from PCI Hispano www.pcihispano.c
 ### == Description ==
 Simple PCIDSS Information and Configuration Extractor (SPICE) is a VERY SIMPLE console-based program for Microsoft Windows operating systems, designed to collect and export configuration data related with PCI DSS controls, aiming to QSA, ISA or administrators to review it offline in order to validate the application of settings described in the system hardening standard (req. 2.2). It is portable and does not need neither installation nor additional software to run (DLL, installers, compilers or interpreters). It performs basic validation rutines in specific variables with fixed values (password lenght, password expiration, password complexity and so on) and reports this results into a final log:
 
-WARN: There is something wrong with extracted value
-INFO: Everything is OK   
+- WARN: There is something wrong with extracted value
+- INFO: Everything is OK
 
 ### == Installation ==
 This program does not need installation. Just uncompress the .zip file and copy the main executable "SPICE_vX.X.bat" (where X.X is the current version) into a temporary folder.
