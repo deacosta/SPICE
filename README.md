@@ -34,10 +34,8 @@ When this steps have been performed, go to the folder where the script was extra
 
 ### Changelog
 
-= 0.1 (March 2014) =
-* Upgrade to PCI DSS v3.0
-= 0.09 (May 2013) =
-* First version PCI DSS v2.0 (not published)
+0.1 (March 2014): Upgrade to PCI DSS v3.0
+0.09 (May 2013): First version PCI DSS v2.0 (not published)
 
 ### License
 See LICENSE file 
